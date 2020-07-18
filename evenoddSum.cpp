@@ -1,3 +1,12 @@
+/*
+   Input : Integer N (= 1234 for example)
+   output : Sum_of_even_digits( = 2 + 4)  Sum_of_odd_digits ( = 1+3)
+
+*/
+
+
+
+
 #include<iostream>
 using namespace std;
 
